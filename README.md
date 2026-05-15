@@ -6,7 +6,7 @@
 
 ---
 
-## 🐞 Найдено багов на данный момент 7 (1 Critical,1 Major, 5 Minor, 2 Trivial) в 3 кампаниях
+## 🐞 Найдено багов на данный момент 9 (1 Critical,1 Major, 5 Minor, 2 Trivial) в 3 кампаниях
 
 ### Кейс №1: Некорректный HTTP-статус при сбое SMTP (False Positive 200 OK)  
 **ID:** BUG-001  
